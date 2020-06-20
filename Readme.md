@@ -6,7 +6,7 @@ OSX PushToTalk mutes and unmutes the microphone via a keypress.
 
 Features:
 
-- Hold a hotkey (default to **Right option**) to unmute and release to mute
+- Hold a hotkey (default to **Right control**) to unmute and release to mute
 - Configurable hotkey ([@jeremyellison](https://github.com/yulrizka/osx-push-to-talk/commits?author=jeremyellison))
 - Configurable device ([@jeremyellison](https://github.com/yulrizka/osx-push-to-talk/commits?author=jeremyellison))
 - Tested with Mojave & Catalina
