@@ -14,8 +14,8 @@ class HotKey {
     var enabled = true
     let microphone: Microphone
     let menuItem: NSMenuItem
-    var keyCode: UInt16 = 61
-    var modifierFlags = NSEvent.ModifierFlags.option
+    var keyCode: UInt16 = 62
+    var modifierFlags = NSEvent.ModifierFlags.control
     var recordingHotKey = false;
     
     init(microphone: Microphone, menuItem: NSMenuItem) {
